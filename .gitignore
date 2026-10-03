@@ -12,9 +12,8 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Trained models
-models/*.keras
-models/*.h5
-
-# VS Code settings
+# VS Code
 .vscode/
+
+# Test image
+test_image.jpg
